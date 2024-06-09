@@ -37,6 +37,16 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vishnuvardhanreddy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vishnuvardhanreddy" /></a></p><br><br>
 
+<h3>Leetcode Badges</h3>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-09.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
+<img src="https://leetcode.com/static/images/badges/2023/gif/2023-12.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnuvardhanreddy31&show_icons=true&locale=en&layout=compact" alt="vishnuvardhanreddy31" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuvardhanreddy31&show_icons=true&locale=en" alt="vishnuvardhanreddy31" /></p>
