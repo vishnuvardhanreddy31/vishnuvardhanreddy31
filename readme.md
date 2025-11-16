@@ -3,32 +3,32 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuvardhanreddy31&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuvardhanreddy31" /> </p>
 
-<p align="center">Passionate engineer with a love for problem-solving and innovation in wireless technology and embedded systems. I aim to build solutions that connect the world and push the boundaries of what's possible.</p>
+<p align="center">Results-driven RF Software Engineer specializing in 5G network technologies and wireless communication systems. Experienced in developing innovative solutions for next-generation mobile networks with a strong foundation in signal processing and machine learning. Committed to advancing wireless technology and delivering high-impact engineering solutions.</p>
 
 ---
 
-- 🔭 **Current Role**: Associate Engineer at [Qualcomm](https://www.qualcomm.com) working on cutting-edge 5G networks and RF systems.
+- 🔭 **Current Role**: Associate Engineer at [Qualcomm](https://www.qualcomm.com), developing and optimizing RF software solutions for 5G network infrastructure and advanced wireless communication systems.
   
-- 🌱 **Learning Goals**: Deep diving into **Machine Learning**, **RF Engineering**, and **software integration**.
+- 🌱 **Professional Development**: Expanding expertise in **Machine Learning for Signal Processing**, **Advanced RF Engineering**, and **Software-Hardware Integration** to drive innovation in wireless technologies.
 
 - 👨‍💻 **Portfolio**: [vishnuvardhanreddygoli31.web.app](https://vishnuvardhanreddygoli31.web.app)
 
-- 📝 **Blog**: I share my knowledge on [code-craftergvr.web.app](https://code-craftergvr.web.app)
+- 📝 **Technical Blog**: Sharing insights and expertise at [code-craftergvr.web.app](https://code-craftergvr.web.app)
 
 - 🎓 **Education**: 
   - Bachelor of Technology in Artificial Intelligence and Machine Learning (2022-2024)
   - Bachelor of Technology in Electrical, Electronics, and Communication Engineering (2020-2024)
 
 - 📜 **Certifications**:
-  - Machine Learning Specialization from stanford online (DeepLearning.Ai)
-  - Azure AI Fundamentals from Microsoft
-  - Python for Beginners
-  - Signal Processing Onramp
-  - Image Processing Onramp
-  - Virtual Experience Program Participant
-  - Problem Solving (Basic) Certificate
+  - Machine Learning Specialization - Stanford Online (DeepLearning.AI)
+  - Microsoft Azure AI Fundamentals
+  - Python Programming
+  - MATLAB Signal Processing Onramp
+  - MATLAB Image Processing Onramp
+  - Industry Virtual Experience Programs
+  - Problem Solving Certification
 
-- ⚡ **Fun Fact**: Nikola Tesla envisioned wireless electricity far before its time – and his ideas still inspire me to innovate!
+- 💡 **Professional Insight**: Inspired by pioneers like Nikola Tesla who envisioned wireless power transmission, I'm driven to push the boundaries of modern wireless technology and contribute to innovations that shape the future of connectivity.
 
 ---
 
